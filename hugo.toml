@@ -1,0 +1,4 @@
+baseURL = 'cultistgamedev.github.io/'
+languageCode = 'en-us'
+title = 'Cultist Game Dev'
+theme = "ananke"
