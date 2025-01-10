@@ -1,4 +1,5 @@
-baseURL = 'cultistgamedev.github.io/'
+baseURL = 'actualcannibalpanda.github.io/'
 languageCode = 'en-us'
-title = 'Cultist Game Dev'
+title = 'ActualCannibalPanda'
 theme = "ananke"
+

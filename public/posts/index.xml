@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Cultist Game Dev</title>
+    <title>Posts on ActualCannibalPanda</title>
     <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Cultist Game Dev</description>
+    <description>Recent content in Posts on ActualCannibalPanda</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2024 10:43:11 +0000</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 19 Dec 2024 10:43:11 +0000</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is *emphasized text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
